@@ -5,9 +5,15 @@ author:
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 
 remote_theme: jekyll/minima
 minima:
   skin: auto
+
+exclude:
+  - CNAME
+  - .gitignore
+  - README.md
