@@ -23,29 +23,29 @@ Mastodon
 
 ---
 
-Pixiv
-<a href="https://pixiv.net/users/37243507">@jgan</a>
-
 Misskey
 <a href="https://misskey.io/@jgan">@jgan</a>
 
-Gravatar
-<a href="https://gravatar.com/jgan68">@jgan68</a>
-
 Bluesky
-<a href="https://bsky.app/profile/jgan.xii.tv">@jgan.xii.tv</a>
+<a href="https://bsky.app/profile/jgan.bsky.social">@jgan.bsky.social</a>
 
 YouTube
 <a href="https://youtube.com/@jgan68">@jgan68</a>
 
+Pixiv
+<a href="https://pixiv.net/users/37243507">@jgan</a>
+
 Facebook
 <a href="https://facebook.com/jgan08">@jgan08</a>
+
+Instagram
+<a href="https://instagram.com/jgan08">@jgan08</a>
 
 Threads
 <a href="https://threads.net/@jgan08">@jgan08</a>
 
-Instagram
-<a href="https://instagram.com/jgan08">@jgan08</a>
+Gravatar
+<a href="https://gravatar.com/jgan68">@jgan68</a>
 
 Twitter
 <a href="https://twitter.com/jgan68">@jgan68</a>
