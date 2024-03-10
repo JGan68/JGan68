@@ -12,7 +12,7 @@ Now playing プロセカ, with live level 25 max.
 Home:
 <a href="http://jgan.xii.tv/">jgan.xii.tv</a>
 
-Mail:
+Email:
 <a href="mailto:jgan@xii.tv">jgan@xii.tv</a>
 
 GitHub
