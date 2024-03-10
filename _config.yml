@@ -14,6 +14,7 @@ minima:
   skin: auto
 
 exclude:
-  - CNAME
   - .gitignore
+  - .prettierrc
+  - CNAME
   - README.md
