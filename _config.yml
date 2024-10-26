@@ -4,14 +4,13 @@ author:
   email: jgan@xii.cc
 description: >-
   This is Justin Gan, or JGan.
-  Now playing プロセカ, with level 25 max.
 #
 url: https://jgan.xii.cc
 theme: minima
 minima:
   skin: auto
 exclude:
-  - .gitignore
   - .github
+  - .gitignore
   - .prettierrc
   - README.md
