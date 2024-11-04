@@ -1,11 +1,10 @@
 title: JGan's
+url: https://jgan.xii.cc
 author:
   name: Justin Gan
   email: jgan@xii.cc
 description: >-
   This is Justin Gan, or JGan.
-#
-url: https://jgan.xii.cc
 theme: minima
 minima:
   skin: auto
@@ -14,3 +13,6 @@ exclude:
   - .gitignore
   - .prettierrc
   - README.md
+jekyll-spaceship:
+  processors:
+    - table-processor
